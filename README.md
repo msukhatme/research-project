@@ -25,7 +25,7 @@ Tuberculosis remains a major global health concern. This project leverages a Con
 
 The dataset comes from a publicly available TB Chest Radiography Database curated by researchers from Qatar University, the University of Dhaka, and others. **We do not host the entire dataset here** due to size and licensing restrictions.
 
-- See [`archive/TB_Chest_Radiography_Database/DATASET.md`](archive/TB_Chest_Radiography_Database/DATASET.md) for details on how the data was collected and how you can obtain it yourself.
+- See `archive/TB_Chest_Radiography_Database/DATASET.md` for details on how the data was collected and how you can obtain it yourself.
 - Once you have the dataset, place it in the same structure as described in `archive/TB_Chest_Radiography_Database/` (with `Normal/` and `Tuberculosis/` subfolders).
 
 ---
