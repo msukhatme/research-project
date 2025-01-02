@@ -32,6 +32,7 @@ The dataset comes from a publicly available TB Chest Radiography Database curate
 
 ## Repository Structure
 
+```bash
 ├── code/
 │ ├── blur_resnet18.py
 │ ├── brightness_resnet18.py
@@ -47,6 +48,7 @@ The dataset comes from a publicly available TB Chest Radiography Database curate
 ├── run.sh (Example shell script to run some scripts)
 ├── research_paper.pdf
 └── README.md (You are here)
+```
 
 ---
 
