@@ -108,4 +108,4 @@ If you use this dataset or any part of this project in your work, please cite:
 
 All rights reserved.
 
-You are not permitted to use, copy, modify, or distribute any part of this project without prior permission. For any inquiries or requests, please contact me at `msukhatme@uchicago.edu`.
+You are not permitted to use, copy, modify, or distribute any part of this project without prior permission. For any inquiries or requests, please contact me at [msukhatme@uchicago.edu](mailto:msukhatme@uchicago.edu).
