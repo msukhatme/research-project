@@ -26,13 +26,12 @@ Note: Due to the data-sharing restriction, we have to direct the potential user 
 ## Logistics
 
 **Please cite the following article if you are using this dataset:**
+
 Tawsifur Rahman, Amith Khandakar, Muhammad A. Kadir, Khandaker R. Islam, Khandaker F. Islam, Zaid B. Mahbub, Mohamed Arselene Ayari, Muhammad E. H. Chowdhury. (2020) "Reliable Tuberculosis Detection using Chest X-ray with Deep Learning, Segmentation and Visualization". IEEE Access, Vol. 8, pp 191586 - 191601. DOI. 10.1109/ACCESS.2020.3031384.
 
-**Formats:**
-- All the images are in Portable Network Graphics (PNG) file format and resolution are 512*512 pixels.
+**Formats:** All the images are in Portable Network Graphics (PNG) file format and resolution are 512*512 pixels.
 
-**Objective:**
-- Researchers can use this database to produce useful and impactful scholarly work on TB, which can help in tackling this issue. 
+**Objective:** Researchers can use this database to produce useful and impactful scholarly work on TB, which can help in tackling this issue. 
 
 ---
 
